@@ -22,7 +22,7 @@ const imagesCat = [
 
         setTimeout(() => {
             container.innerHTML = '';
-        }, 3000);
+        }, 5000);
     }
   }
 
